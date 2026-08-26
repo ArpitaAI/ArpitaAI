@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg">
+    <img src="./dark_mode.svg" alt="GitHub ASCII Profile">
+  </picture>
+</p>
+
 [![MasterHead](https://www.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_174143190.htm#fromView=keyword&page=1&position=9&uuid=a7b6982c-463e-49bd-8aa1-7900be891d82&query=Github+Cover)
 
 <h1 align="center">Hi 👋, I'm Arpita Islam</h1>
